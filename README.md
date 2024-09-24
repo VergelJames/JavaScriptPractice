@@ -1,2 +1,2 @@
-# javaScriptPractice
+# JavaScriptPractice
 JavaScript Practice and Activities Repository.
